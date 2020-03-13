@@ -1,0 +1,10 @@
+.box {
+    background-image: url(/abstract-technology-particle-.jpg);
+    height: 250px;
+    width: 120px;
+    margin: 5px;
+    float: left;
+    border-radius: 10px;
+    box-shadow: 2px 3px 2px black
+    
+}

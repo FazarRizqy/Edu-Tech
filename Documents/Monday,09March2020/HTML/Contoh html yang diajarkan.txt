@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>Belajar HTML</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<p Class="paragraph" id="paragraph 1">Edutech 2</p>
+<p Class="paragraph" id="paragraph 1">Edutech 2</p>
+<p><b>Edutech Batch 5<b><p>
+<p><i>Edutech Batch 5<i><p>
+<p><u>Edutech Batch 5<u><p>
+<h1><i> edutech batch 5</i></h1>
+<h2>Edutech batch 5</h2>
+<h3>Edutech batch</h3>
+<h4>Edutech batch</h4>
+<h5>Edutech batch</h5>
+<h6>Edutech batch</h6>
+<img src="https://picture.jpg" width="100px" alt="ini gambar penguin">
+<!--ini komentar -->
+<img src="penguin.jpg" width="100px">
+<br>
+<hr>
+<a href="https://google.com">ini link ke google
+</a>
+</body>
+</html>

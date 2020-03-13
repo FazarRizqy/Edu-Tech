@@ -1,0 +1,13 @@
+   
+
+     untuk membantu penggunaan VSCode
+     buka extension ->
+     -> Beautify, live server, open in browser, auto rename tag
+
+     buka roadmap.sh untuk mengetahui Front-Back end
+
+     CSS : internal, in line, eksternal
+
+     PR: Belajar Table - Belajar Layout
+
+     

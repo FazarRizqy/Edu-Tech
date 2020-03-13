@@ -1,0 +1,18 @@
+bikin folder baru dengan nama belajar Git
+bikin 4 file dengan nama = latihan.html
+latihan2.html
+latihan3.html
+latihan4.html
+
+pastikan pas dicek ada semua ke 4 file tersebut muncul ketika di cek (git log --oneline)
+tambahkan h1 selamat datang di edutech
+
+git init instalize
+cd.. kembali 1 folder
+d: untuk pindah drive
+cd (folder) untuk masuk ke folder
+
+git status
+git add ./name
+git commit -m "comment"
+git log --oneline
